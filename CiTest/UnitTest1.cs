@@ -15,7 +15,7 @@ namespace CiTest
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.IsFalse(true);
+            throw new Exception("will you find me?");
         }
     }
 }
