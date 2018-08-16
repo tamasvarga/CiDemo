@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiConsole", "CiConsole\CiConsole.csproj", "{62A3B12A-A7DB-40EF-B598-1F894A33CF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiTest", "CiTest\CiTest.csproj", "{31ED7D7B-4789-4D98-B2B3-AD7E351FDDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A3B12A-A7DB-40EF-B598-1F894A33CF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A3B12A-A7DB-40EF-B598-1F894A33CF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A3B12A-A7DB-40EF-B598-1F894A33CF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A3B12A-A7DB-40EF-B598-1F894A33CF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31ED7D7B-4789-4D98-B2B3-AD7E351FDDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ED7D7B-4789-4D98-B2B3-AD7E351FDDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ED7D7B-4789-4D98-B2B3-AD7E351FDDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ED7D7B-4789-4D98-B2B3-AD7E351FDDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39F9ED5-FCBB-49DA-891B-085FF37650C4}
+	EndGlobalSection
+EndGlobal
