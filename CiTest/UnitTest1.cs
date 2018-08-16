@@ -11,5 +11,11 @@ namespace CiTest
         {
             Assert.IsTrue(true);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.IsFalse(true);
+        }
     }
 }
